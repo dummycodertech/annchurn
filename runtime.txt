@@ -1,2 +1,2 @@
-python-3.11.8
+python-3.11
 tensorflow==2.15.0; python_version < "3.12"
